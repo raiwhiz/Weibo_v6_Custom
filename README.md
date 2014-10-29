@@ -1,4 +1,4 @@
-Weibo_v6_Diy_Color
+Weibo_v6_Diy_Color ver beta 0.2
 ==================
 通过覆盖CSS设置来自定义微博v6的一些元素：
 1. 主区域背景颜色
@@ -11,7 +11,8 @@ Weibo_v6_Diy_Color
 8. 超链接颜色
 9. 带框超链接颜色
 10. 评论背景颜色
-
+11. 好友转发背景颜色
+12. “还有N条对原微博的转发”文字的背景颜色
 ![Image](https://github.com/raiwhiz/Weibo_v6_Diy_Color/blob/master/detail.jpg)
 
 ------------

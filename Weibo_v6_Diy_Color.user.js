@@ -4,7 +4,7 @@
 // @description 自定义微博v6版本的颜色
 // @include     http://weibo.com/*/home*
 // @include     http://weibo.com/*/profile*
-// @version     beta 0.1
+// @version     beta 0.2
 // @grant       none
 // ==/UserScript==
 //by raiwhiz
@@ -31,7 +31,7 @@ function addGlobalStyle(css)
 }
 
 //主区域背景颜色
-//addGlobalStyle('div.WB_miniblog_fb { background-color:#ffff00 }');
+addGlobalStyle('body.FRAME_main.B_index { background-color:##FFF38A }');
 //微博方块背景颜色
 addGlobalStyle('div.WB_cardwrap.WB_feed_type.S_bg2 { background-color:#c7edcc }');
 addGlobalStyle('div.WB_text.W_f14 { font-size:14px ; color:#000000 }');
@@ -51,3 +51,7 @@ addGlobalStyle('a{ color:#009cff }');
 addGlobalStyle('.S_link1{ color:#ff0000 }');
 //评论背景颜色
 addGlobalStyle('div.WB_repeat.S_line1 { background-color:#c7edcc }');
+//好友转发背景颜色
+addGlobalStyle('div.WB_feed_together.S_line1.S_bg1{ background-color:#d7fddc }');
+//“还有N条对原微博的转发”文字的背景颜色
+addGlobalStyle('span.W_fl.wft_info.S_bg1{ background-color:#d7fddc }');
