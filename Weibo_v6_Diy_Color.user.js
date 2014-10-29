@@ -4,7 +4,7 @@
 // @description 自定义微博v6版本的颜色
 // @include     http://weibo.com/*/home*
 // @include     http://weibo.com/*/profile*
-// @version     beta 0.2
+// @version     beta 0.21
 // @grant       none
 // ==/UserScript==
 //by raiwhiz
