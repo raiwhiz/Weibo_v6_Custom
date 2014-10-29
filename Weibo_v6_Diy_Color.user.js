@@ -31,7 +31,7 @@ function addGlobalStyle(css)
 }
 
 //主区域背景颜色
-addGlobalStyle('body.FRAME_main.B_index { background-color:##FFF38A }');
+addGlobalStyle('body.FRAME_main.B_index { background-color:#FFF38A }');
 //微博方块背景颜色
 addGlobalStyle('div.WB_cardwrap.WB_feed_type.S_bg2 { background-color:#c7edcc }');
 addGlobalStyle('div.WB_text.W_f14 { font-size:14px ; color:#000000 }');
