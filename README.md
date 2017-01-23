@@ -13,6 +13,7 @@ Weibo_v6_Custom ver beta 0.3
 10. 评论背景颜色
 11. 好友转发背景颜色
 12. “还有N条对原微博的转发”文字的背景颜色
+
 ![Image](https://github.com/raiwhiz/Weibo_v6_Custom/blob/master/detail.jpg)
 
 ------------
