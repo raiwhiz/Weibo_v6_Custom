@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name        Weibo_v6_Diy_Color
+// @name        Weibo_v6_Custom
 // @namespace   http://weibo.com/raiwhiz
 // @description 自定义微博v6版本的颜色
 // @include     http://weibo.com/*/home*
 // @include     http://weibo.com/*/profile*
-// @version     beta 0.21
+// @version     beta 0.3
 // @grant       none
 // ==/UserScript==
 //by raiwhiz
