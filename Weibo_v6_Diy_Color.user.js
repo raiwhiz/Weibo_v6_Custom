@@ -46,7 +46,7 @@ addGlobalStyle('span.levtxt{ color:#000000 }');
 //左边栏“更多”文字颜色
 addGlobalStyle('a.more.S_txt1{ color:#000000 }');
 //超链接颜色
-addGlobalStyle('a{ color:#009cff }');
+addGlobalStyle('.WB_text a{ color:#009cff !important;}');
 //带框超链接颜色
 addGlobalStyle('.S_link1{ color:#ff0000 }');
 //评论背景颜色
