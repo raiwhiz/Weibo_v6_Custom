@@ -1,4 +1,7 @@
-Weibo_v6_Custom ver beta 0.3
+Weibo_v6_Custom ver beta 0.3.1
+
+0.3.1更新
+匹配https
 ==================
 通过覆盖CSS设置来自定义微博v6的一些元素：  
 1. 主区域背景颜色  
